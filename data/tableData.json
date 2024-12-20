@@ -257,6 +257,7 @@
   {
     "letter": "A",
     "name": "奥美沙坦酯片",
+    "brandName": "傲坦",
     "manufacturer": "第一三共制药 (上海) 有限公司",
     "tags": [
       "降血压药",
@@ -293,6 +294,7 @@
   {
     "letter": "B",
     "name": "贝那普利氢氯噻嗪片",
+    "brandName": "依思汀",
     "manufacturer": "北京诺华制药有限公司",
     "tags": [
       "降血压药",
@@ -572,6 +574,7 @@
   {
     "letter": "E",
     "name": "厄贝沙坦片",
+    "brandName": "安博维",
     "manufacturer": "法国赛诺菲 Sanofi Winthrop",
     "tags": [
       "降血压药",
@@ -581,6 +584,7 @@
   {
     "letter": "E",
     "name": "厄贝沙坦氢氯噻嗪片",
+    "brandName": "安博诺",
     "manufacturer": "法国赛诺菲 Sanofi Winthrop",
     "tags": [
       "降血压药",
@@ -752,6 +756,7 @@
   {
     "letter": "F",
     "name": "福辛普利钠片",
+    "brandName": "蒙诺",
     "manufacturer": "中美上海施贵宝制药有限公司",
     "tags": [
       "降血压药",
@@ -1211,6 +1216,7 @@
   {
     "letter": "K",
     "name": "卡托普利片",
+    "brandName": "开博通",
     "manufacturer": "中美上海施贵宝制药有限公司",
     "tags": [
       "降血压药",
@@ -1229,6 +1235,7 @@
   {
     "letter": "K",
     "name": "坎地沙坦西酯片",
+    "brandName": "必洛斯",
     "manufacturer": "日本武田药品工业株式会社大阪工厂",
     "tags": [
       "降血压药",
@@ -1364,6 +1371,7 @@
   {
     "letter": "L",
     "name": "赖诺普利片",
+    "brandName": "捷赐瑞",
     "manufacturer": "英国阿斯利康 AstraZeneca UK Limited",
     "tags": [
       "降血压药",
@@ -1400,6 +1408,7 @@
   {
     "letter": "L",
     "name": "雷米普利片",
+    "brandName": "瑞泰",
     "manufacturer": "赛诺菲安万特 (北京) 制药有限公司",
     "tags": [
       "降血压药",
@@ -1679,6 +1688,7 @@
   {
     "letter": "L",
     "name": "氯沙坦钾片",
+    "brandName": "科素亚",
     "manufacturer": "杭州默沙东制药有限公司",
     "tags": [
       "降血压药",
@@ -1688,6 +1698,7 @@
   {
     "letter": "L",
     "name": "氯沙坦钾氢氯噻嗪片",
+    "brandName": "海捷亚",
     "manufacturer": "英国 Merck Sharp & Dohme(杭州分装）",
     "tags": [
       "降血压药",
@@ -1715,6 +1726,7 @@
   {
     "letter": "M",
     "name": "马来酸依那普利片",
+    "brandName": "悦宁定",
     "manufacturer": "澳大利亚 Merck Sharp & Dohme",
     "tags": [
       "降血压药",
@@ -1931,6 +1943,7 @@
   {
     "letter": "P",
     "name": "培哚普利片",
+    "brandName": "雅施达",
     "manufacturer": "施维雅 (天津) 制药有限公司",
     "tags": [
       "降血压药",
@@ -2300,6 +2313,7 @@
   {
     "letter": "T",
     "name": "替米沙坦片",
+    "brandName": "美卡素",
     "manufacturer": "德国勃林格殷格翰公司 (上海勃林格殷格翰药",
     "tags": [
       "降血压药",
@@ -2678,6 +2692,7 @@
   {
     "letter": "Z",
     "name": "缬沙坦氨氯地平片 (I)",
+    "brandName": "倍博特",
     "manufacturer": "瑞士诺华制药有限公司 Novartis Pharma",
     "tags": [
       "降血压药",
@@ -2687,6 +2702,7 @@
   {
     "letter": "Z",
     "name": "缬沙坦胶囊",
+    "brandName": "代文"
     "manufacturer": "北京诺华制药有限公司",
     "tags": [
       "降血压药",
@@ -2696,6 +2712,7 @@
   {
     "letter": "Z",
     "name": "缬沙坦氢氯噻嗪片",
+    "brandName": "复代文",
     "manufacturer": "瑞士诺华制药有限公司 Novartis Pharma",
     "tags": [
       "降血压药",
@@ -2804,6 +2821,7 @@
   {
     "letter": "Y",
     "name": "盐酸贝那普利片",
+    "brandName": "洛汀新",
     "manufacturer": "北京诺华制药有限公司",
     "tags": [
       "降血压药",
@@ -3029,6 +3047,7 @@
   {
     "letter": "Y",
     "name": "盐酸咪达普利片",
+    "brandName": "达爽",
     "manufacturer": "天津田边制药有限公司",
     "tags": [
       "降血压药",
