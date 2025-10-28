@@ -3345,6 +3345,7 @@
   {
     "letter": "Y",
     "name": "盐酸西替利嗪滴剂",
+    "brandName": "仙特明",
     "manufacturer": "意大利 UCB Pharma S.p. A.",
     "tags": [
       "抗过敏药",
@@ -3471,7 +3472,8 @@
   {
     "letter": "Y",
     "name": "依巴斯汀片",
-    "manufacturer": "西班牙 INDUSTRIAS FARMACEUTICAS",
+    "brandName": "开思亭",
+    "manufacturer": "西班牙 ALMIRALL, S.A.",
     "tags": [
       "抗过敏药",
       "片剂"
