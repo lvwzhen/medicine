@@ -615,6 +615,7 @@
   {
     "letter": "E",
     "name": "厄贝沙坦氢氯噻嗪片",
+    "brandName": "安博诺",
     "manufacturer": "法国赛诺菲 Sanofi Winthrop",
     "tags": [
       "降血压药",
@@ -846,7 +847,7 @@
   {
     "letter": "F",
     "name": "富马酸比索洛尔片",
-    "brandName": "康析",
+    "brandName": "康忻",
     "manufacturer": "德国默克 (Merck KGaA)",
     "tags": [
       "降血压药",
@@ -3698,7 +3699,7 @@
   {
     "letter": "F",
     "name": "富马酸比索洛尔片",
-    "brandName": "康析",
+    "brandName": "康忻",
     "manufacturer": "默克",
     "tags": [
       "降血压药",
